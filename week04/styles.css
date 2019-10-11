@@ -21,3 +21,8 @@ header h1 {
     background-position: top left;
     background-repeat: no-repeat;
 }
+
+#container {
+    margin-bottom: 30px;
+    
+}
