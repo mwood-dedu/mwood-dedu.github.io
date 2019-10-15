@@ -36,6 +36,7 @@ nav ul {
     margin: 0px;
     list-style-type: none;
     color: #7C1A00;
+
 }
 
 nav li {
@@ -45,6 +46,11 @@ nav li {
    border-color: #7C1A00;
    background-color: #FFE597; 
  }
+nav a {
+    color: #ffffff;
+    background-color:#8C9273; 
+    padding: 3px;
+    padding-right: 60px;
+    text-decoration: none;
 
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
- 
+}
