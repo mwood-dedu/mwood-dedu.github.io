@@ -36,7 +36,6 @@ nav ul {
     margin: 0px;
     list-style-type: none;
     color: #7C1A00;
-
 }
 
 nav li {
@@ -46,6 +45,7 @@ nav li {
    border-color: #7C1A00;
    background-color: #FFE597; 
  }
+
 nav a {
     color: #ffffff;
     background-color:#8C9273; 
@@ -53,7 +53,7 @@ nav a {
     padding-right: 60px;
     text-decoration: none;
 }
-nav a hover {
-    background-color:#7C1A00;
-    
+
+nav a:hover {
+    background-color:#7C1A00;    
 }
