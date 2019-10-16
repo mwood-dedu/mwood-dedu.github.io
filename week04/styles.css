@@ -64,12 +64,13 @@ nav a:hover {
     margin-left: 180px;
     padding: 10px;
 }
+
 footer {
     clear: both;
     text-align: center;
 }
 
-footer li a {
+footer li {
     display: inline;
     padding: 10px;
 }
