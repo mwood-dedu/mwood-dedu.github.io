@@ -90,27 +90,18 @@ h3 {
 }
 
 blockquote {
-    background-color:#FFE597;
+    background-color: #FFE597;
   }
 
 ul {
     list-style-type: square;
   }
 
-font {
+a {
     color: #7C1A00
-    font-weight: bold; }
+    font-weight: bold;
 }
 
-font a {
-    color: #ffffff;
-    background-color:#8C9273; 
-    padding: 3px;
-    padding-right: 60px;
-    text-decoration: none;
-}
-
-
-nav a:hover {
+a:hover {
     color:#FFE597; 
 }
