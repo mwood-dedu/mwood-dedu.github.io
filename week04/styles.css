@@ -65,12 +65,12 @@ nav a:hover {
     padding: 10px;
 }
 
-a {
+footer {
     clear: both;
     text-align: center;
 }
 
-.footer li {
+footer li {
     display: inline;
     padding: 10px;
 }
