@@ -69,7 +69,7 @@ nav a:hover {
     text-align: center;
 }
 
-.footer li {
+.footer li a {
     display: inline;
     padding: 10px;
 }
