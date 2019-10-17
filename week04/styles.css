@@ -92,8 +92,7 @@ h3 {
 
 blockquote {
     background-color: #FFE597;
-  }
-
+ 
 ul {
     list-style-type: square;
   }
@@ -114,3 +113,4 @@ blockquote {
     margin-left: 40px;
     margin-right: 40px;
   }
+}
