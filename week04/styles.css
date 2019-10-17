@@ -86,24 +86,23 @@ h2 {
 
 h3 {
     background-image: url("header-star-1.gif");
-    padding-left: 20px
-    background-repeat; no-repeat;
+    padding-left: 20px;
+    background-repeat: no-repeat;
 }
 
 blockquote {
     background-color: #FFE597;
-
+}
 
 ul {
     list-style-type: square;
   }
 
 a {
-    color: #7C1A00
-    font-weight: bold;
+    color: #7C1A00;
+    font-weight; bold:
 }
 
 a:hover {
     color:#FFE597; 
-}
 }
