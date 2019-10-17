@@ -99,7 +99,7 @@ ul {
     list-style-type: square;
   }
 
-font {
+font a {
     color: #7C1A00;
     font-weight: bold;
 }
