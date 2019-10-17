@@ -87,6 +87,7 @@ h2 {
 h3 {
     background-image: url("header-star-1.gif");
     padding-left: 20px
+    background-repeat: no-repeat;
 }
 
 blockquote {
@@ -98,10 +99,18 @@ ul {
   }
 
 a {
-    color: #3CFF33
+    color: #7C1A00
     font-weight: bold;
 }
 
 a:hover {
     color:#FFE597; 
 }
+
+blockquote {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
