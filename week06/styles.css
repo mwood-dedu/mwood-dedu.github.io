@@ -84,6 +84,7 @@ div {
 }
 
 .footer {
+	float: center;
     background-color: #666;
     padding: 10px;
     text-align: center;
