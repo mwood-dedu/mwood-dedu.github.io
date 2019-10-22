@@ -88,7 +88,6 @@ div {
     background-color: #666;
     padding: 10px;
     text-align: center;
-   
 }
 
 .footer-bottom {
@@ -113,7 +112,8 @@ div {
 }
 
 #footer {
-    background-color: #666;
+	background-color: #666;
+	float: center;
 }
 
 h1 {
