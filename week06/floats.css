@@ -15,6 +15,21 @@ body {
 	line-height: 24px;
 }
 
+#wrapper {
+	background-color: #FFF;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 box-sizing{
 	box-sizing: border-box;
   }
@@ -53,6 +68,26 @@ div {
 
 .bottom-center {
     float: center;
+    background-color: #666;
+}
+
+#red {
+    background-color: #900;
+}
+
+#green {
+    background-color: #090;
+}
+
+#blue {
+    background-color: #00F;
+}
+
+#purple {
+    background-color: #63C;
+}
+
+#footer {
     background-color: #666;
 }
 
