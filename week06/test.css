@@ -1,0 +1,35 @@
+section {
+    border: 1px solid blue;
+    width: 100%;
+    float: left;
+}
+  
+div {
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+}
+  
+.left {
+    float: left;
+    background: #900;
+}
+
+.right {
+    float: right;
+    background: #090;
+}
+
+.bottom.left {
+    float: bottom left;
+    background: #00F;
+}
+.bottom.right {
+    float: bottom right;
+    background: #63C;
+}
+
+.bottom.center {
+    float: bottom center;
+    background: #666;
+}
