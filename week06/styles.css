@@ -7,7 +7,7 @@
 }
 
 body {
-	background-color: #ECECEC;
+	
 	font-weight: bold;
 	font-family: Tahoma, Geneva, sans-serif;
 	color: #FFF;
@@ -36,13 +36,13 @@ box-sizing{
   
 .box {
 	float: left;
-	width: 50%; /* three boxes (use 25% for four, and 50% for two, etc) */
+	width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
 	padding: 50px; /* if you want space between the images */
 }
 
 .box {
 	float: right;
-	width: 50%; /* three boxes (use 25% for four, and 50% for two, etc) */
+	width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
 	padding: 50px; /* if you want space between the images */
 }
 
