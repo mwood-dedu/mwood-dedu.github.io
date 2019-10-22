@@ -40,6 +40,23 @@ box-sizing{
 	padding: 50px; /* if you want space between the images */
 }
 
+.box {
+	float: right;
+	width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+	padding: 50px; /* if you want space between the images */
+}
+
+.box {
+	float: bottom left;
+	width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    padding: 50px; /* if you want space between the images */
+}
+
+.box {
+	float: bottom right;
+	width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+	padding: 50px; /* if you want space between the images */
+}
 div {
     margin: 5px;
     width: 50px;
