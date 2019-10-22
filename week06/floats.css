@@ -51,6 +51,11 @@ div {
     background-color: #00F;
 }
 
+.bottom-center {
+    float: center;
+    background-color: #666;
+}
+
 #red {
 	background-color: #900;
 }
