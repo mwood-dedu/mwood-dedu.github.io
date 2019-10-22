@@ -56,19 +56,21 @@ div {
     background-color: #090;
 }
 
-.bottom-right {
-    float: right;
-    background-color: #63C;
-}
-
 .bottom-left {
     float: left;
     background-color: #00F;
 }
 
-.bottom-center {
-    float: center;
+.bottom-right {
+    float: right;
+    background-color: #63C;
+}
+
+.footer {
     background-color: #666;
+    padding: 10px;
+    text-align: center;
+    color: white;
 }
 
 #red {
