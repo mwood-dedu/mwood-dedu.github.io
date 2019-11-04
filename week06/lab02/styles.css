@@ -7,8 +7,8 @@
 
 .red {
   background:red;
-  width:230px;
-  height:230px;
+  width:100px;
+  height:100px;
   position:absolute;
   top:10px;
   left:10px;
@@ -16,8 +16,8 @@
 
 .green {
   background:green;
-  width:230px;
-  height:230px;
+  width:100px;
+  height:100px;
   position:absolute;
   top:10px;
   right:10px;
@@ -25,8 +25,8 @@
 
 .blue {
   background:blue;
-  width:230px;
-  height:230px;
+  width:100px;
+  height:100px;
   position:absolute;
   bottom:50px;
   left:10px;
@@ -34,8 +34,8 @@
 
 .purple {
   background:purple; 
-  width:230px;
-  height:230px;
+  width:100px;
+  height:100px;
   position:absolute;
   bottom:50px;
   right:10px;
@@ -43,9 +43,9 @@
 
 .gray {
   background:gray; 
-  width:480px;
-  height:25px;
+  width:100px;
+  height:100px;
   position:absolute;
-  bottom:10px;
-  right:10px;
+  bottom:249px;
+  right:205px;
 }  
