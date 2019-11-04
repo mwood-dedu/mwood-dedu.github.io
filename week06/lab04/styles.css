@@ -2,7 +2,10 @@
   position:relative;
   width:500px;
   height:542px;
-  background:#cccccc;
+  background:#ffffff;
+  border-style: solid;
+  border-width: 10px 10px 10px 10px;
+  border-color: #d3d3d3;
 }
 
 .red {
@@ -10,9 +13,8 @@
   width:100px;
   height:100px;
   position:absolute;
-  top:10px;
-  left:10px;
-  border:
+  top:0px;
+  left:0px;
 }
 
 .green {
@@ -20,8 +22,8 @@
   width:100px;
   height:100px;
   position:absolute;
-  top:10px;
-  right:10px;
+  top:0px;
+  right:0px;
 }
 
 .blue {
@@ -29,8 +31,8 @@
   width:100px;
   height:100px;
   position:absolute;
-  bottom:10px;
-  left:10px;
+  bottom:0px;
+  left:0px;
 }
 
 .purple {
@@ -38,8 +40,8 @@
   width:100px;
   height:100px;
   position:absolute;
-  bottom:10px;
-  right:10px;
+  bottom:0px;
+  right:0px;
 }  
 
 .gray {
@@ -49,7 +51,4 @@
   position:absolute;
   bottom:220px;
   right:205px;
-  border-style: solid;
-  border-color: #white;
-  }
 }  
