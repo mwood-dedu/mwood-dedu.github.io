@@ -3,32 +3,16 @@
 
 body {
     font-family: "Georgia", Times, Serif; 
-    color: black;
-    line-height: 1.4em;
-    margin: 30px;
-    background-image: url("images/page-bg.gif");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-color: #A8FFE3;    
-}
-
-header h1 {
-    font-size: 350%;
-    color: #7C1A00;
-    padding: 40px;
-    padding-left: 120px;
-    background-image: url("images/header-image-1.gif");
-    background-position: top left;
-    background-repeat: no-repeat;
+    color: #FA0E00;
+    font-weight: bold;
+    line-height: 1.5em;
+    background-color: #19ff8c;  
+    background-image:   
+    url("week08/images/source-1.gif");
 }
 
 #container {
     margin-bottom: 30px;
-}
-
-nav {
-    float: left;
-    width: 150px;
 }
 
 nav ul {
@@ -42,24 +26,18 @@ nav li {
    margin: 10px;
    border: 1px solid red;
    border-style: solid;
-   border-color: #7C1A00;
+   border-color: #f3ff19;
    background-color: #FFE597; 
  }
 
-nav a {
-    color: #ffffff;
-    background-color:#8C9273; 
-    padding: 3px;
-    padding-right: 60px;
-    text-decoration: none;
-}
-
-nav a:hover {
-    background-color:#7C1A00;    
+ #container {
+    background-image: url("images/trans-bg.gif");
+    border: 1px solid #CCCCCC;
+    margin-left: 180px;
+    padding: 10px;
 }
 
 #container {
-    background-image: url("week08/images/source-1.gif");
     border: 1px solid #CCCCCC;
     margin-left: 180px;
     padding: 10px;
@@ -76,13 +54,20 @@ footer li {
 }
 
 h1 {
-    color: #8C9273
+    color: #FF0FF5;
+    font-weight: bold;
+    text-align: center;
+}
+#container {
+    border: 1px solid #CCCCCC;
+    margin-left: 180px;
+    padding: 10px;
 }
 
 h2 {
-    border-left: 20px solid #8C9273;
-    border-bottom: 5px solid #8C9273;
-    padding-left: 5px
+    color: #FFBB19;
+    font-weight: bold;
+    text-align: center;
 }
 
 h3 {
@@ -105,5 +90,6 @@ font {
 }
 
 a:hover {
-    color:#FFE597; 
+    color:#FF0FF5; 
 }
+
