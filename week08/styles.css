@@ -31,20 +31,11 @@ nav li {
  }
 
  #container {
-    background-image: url("images/trans-bg.gif");
+    background-image: url("week08/images/source01.gif");
     border: 1px solid #CCCCCC;
     margin-left: 180px;
     padding: 10px;
-
-h1: {
-    font-size: 350%;
-    color: #7C1A00;
-    padding: 40px;
-    padding-left: 120px;
-    background-image: url("images/header-image-1.gif");
-    background-position: top left;
-    background-repeat: no-repeat;
-    }
+}
 
 #container {
     border: 1px solid #CCCCCC;
