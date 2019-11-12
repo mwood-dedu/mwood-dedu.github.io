@@ -27,12 +27,12 @@ nav li {
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
-   background-color: rgb(1, 253, 14); 
+   background-color: #0ffc03; 
  }
 
  #container {
     background-image: url("images/source01.gif");
-    border: 1px solid #CCCCCC;
+    border: 1px solid #0ffc03;
     margin-left: 180px;
     padding: 10px;
 }
