@@ -60,7 +60,6 @@ h1 {
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    line-height: 1.4em;
 }
 
 #container {
@@ -74,7 +73,7 @@ h2 {
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    line-height: 1.4em;
+    line-height: normal;
 }
 
 #container {
@@ -88,7 +87,7 @@ h3 {
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    line-height: 1.4em;
+    line-height: normal;
 }
 
 #container {
