@@ -68,7 +68,7 @@ h1 {
     padding: 10px;
 }
 
-h2 {
+h1 {
     color: #FFBB19;
     font-weight: bold;
     text-align: center;
@@ -82,12 +82,10 @@ h2 {
 }
 
 h4 {
-    color: #d95cff;
+    color: #dD5CFF;
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    padding-left: 0px;
-    background-repeat: no-repeat;
 }
 
 blockquote {
