@@ -4,14 +4,18 @@
 body {
     font-family: "Georgia", Times, Serif; 
     color: #FA0E00;
-    font-align: center
+    text-align: center
     font-weight: bold;
     line-height: 1.5em;
     background-color: #19ff8c;  
     background-image:   
     url("week08/images/source-1.gif");
+   
 }
 
+body {
+    margin: 30px;
+}
 #container {
     margin-bottom: 30px;
 }
@@ -86,8 +90,9 @@ ul {
   }
 
 font {
-    color: #7C1A00;
+    color: #FA0E00;
     font-weight: bold;
+    text-align: center
 }
 
 a:hover {
