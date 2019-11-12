@@ -3,12 +3,12 @@
 
 body {
     font-family: "Georgia", Times, Serif; 
+    text-align: center;
     color: #FA0E00;
     line-height: 1.5em;
     background-color: #19ff8c;  
     background-image:   
     url("images/source-1.gif");
-   
 }
 
 body {
