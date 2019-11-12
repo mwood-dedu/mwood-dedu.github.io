@@ -27,7 +27,7 @@ nav li {
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
-   background-color: #FFE597; 
+   background-color: rgb(1, 253, 14); 
  }
 
  #container {
@@ -38,7 +38,7 @@ nav li {
 }
 
 #container {
-    border: 1px solid #CCCCCC;
+    border: 1px solid #FF0FF5;
     margin-left: 180px;
     padding: 10px;
 }
@@ -59,7 +59,7 @@ h1 {
     text-align: center;
 }
 #container {
-    border: 1px solid #CCCCCC;
+    border: 1px solid #1703fc;
     margin-left: 180px;
     padding: 10px;
 }
