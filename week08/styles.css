@@ -60,13 +60,13 @@ h1 {
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    line-height: 400%;
+    line-height: 1cm;
 }
 
 #container {
     border: 1px solid #1703fc;
     margin-left: 180px;
-    padding: 5px;
+    padding: 1px;
 }
 
 h2 {
@@ -74,13 +74,13 @@ h2 {
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    line-height: 300%;
+    line-height: 1cm;
 }
 
 #container {
     border: 1px solid #1703fc;
     margin-left: 180px;
-    padding: 5px;
+    padding: 1px;
 }
 
 h3 {
@@ -88,7 +88,7 @@ h3 {
     font-weight: bold;
     text-align: center;
     background-image: url("images/header-star-1.gif");
-    line-height: 300%;
+    line-height: 1cm%;
 }
 
 #container {
