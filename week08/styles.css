@@ -60,6 +60,7 @@ h1 {
     color: #FF0FF5;
     font-weight: bold;
     text-align: center;
+    background-image: url("images/header-star-1.gif");
 }
 #container {
     border: 1px solid #1703fc;
