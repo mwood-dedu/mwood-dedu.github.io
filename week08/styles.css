@@ -7,12 +7,17 @@ body {
     line-height: 1.5em;
     background-color: #19ff8c;  
     background-image:   
-    url("images/source-1.gif");
+    url("images/butterfly.gif");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: top right;
+	
 }
 
 body {
     margin: 30px;
 }
+
 #container {
     margin-bottom: 30px;
 }
@@ -32,73 +37,25 @@ nav li {
    background-color: #0ffc03; 
 }
 
-#container {
-    background-image: url("images/source-1.gif");
-    border: 1px solid #CCCCCC;
-    margin-left: 180px;
-    padding: 10px;
-}
-
-#container {
-    border: 1px solid #FF0FF5;
-    margin-left: 180px;
-    padding: 10px;
-}
-
-footer {
-    clear: both;
-    text-align: center;
-}
-
-footer li {
-    display: inline;
-    padding: 10px;
-}
-
 h1 {
     color: #FFBB19;
     font-weight: bold;
     text-align: center;
-    background-image: url("images/header-star-1.gif");
     line-height: 1cm;
-}
-
-#container {
-    border: 1px solid #1703fc;
-    margin-left: 180px;
-    padding: 1px;
 }
 
 h2 {
-    color: #FF0FF5;
-    font-weight: bold;
-    text-align: center;
-    background-image: url("images/header-star-1.gif");
-    line-height: 1cm;
-}
-
-#container {
-    border: 1px solid #1703fc;
-    margin-left: 180px;
-    padding: 1px;
-}
-
-h3 {
     color: #1703fc;
     font-weight: bold;
     text-align: center;
-    background-image: url("images/header-star-1.gif");
+    line-height: 1cm;
+}
+
+h3 {
+    color: #FF0FF5;     
+    font-weight: bold;
+    text-align: center;
     line-height: 1cm%;
-}
-
-#container {
-    border: 1px solid #1703fc;
-    margin-left: 180px;
-    padding: 5px;
-}
-
-blockquote {
-    background-color: #FFE597;
 }
 
 ul {
@@ -113,5 +70,17 @@ font {
 
 a:hover {
     color:#FF0FF5; 
+}
+
+footer {
+    clear: both;
+    text-align: center;
+	color: #000000;
+    font-weight: bold;
+}
+
+footer li {
+    display: inline;
+    padding: 10px;
 }
 
