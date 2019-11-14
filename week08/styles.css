@@ -23,13 +23,13 @@ body {
 
 nav ul {
     padding: 0px;
-    margin: 25px;
+    margin: 30px;
     list-style-type: none;
     color: #7C1A00;
 }
 
 nav li {
-   margin: 25px;
+   margin: 30px;
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
