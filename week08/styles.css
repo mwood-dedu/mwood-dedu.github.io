@@ -14,7 +14,7 @@ body {
 }
 
 body {
-    margin-left: 75x;
+    margin: 30px;
 }
 
 #container {
@@ -23,13 +23,13 @@ body {
 
 nav ul {
     padding: 0px;
-    margin: 0px;
+    margin: 25px;
     list-style-type: none;
     color: #7C1A00;
 }
 
 nav li {
-   margin: 10px;
+   margin: 25px;
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
@@ -59,7 +59,7 @@ h3 {
 
 ul {
     list-style-type: square;
-}
+  }
 
 font {
     color: #FA0E00;
