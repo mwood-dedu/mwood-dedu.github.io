@@ -5,6 +5,7 @@ body {
     font-family: "Georgia", Times, Serif; 
     color: #FA0E00;
     line-height: 1.5em;
+    margin: 30px;
     background-color: #19ff8c;  
     background-image:   
     url("images/butterfly.gif");
@@ -23,13 +24,13 @@ body {
 
 nav ul {
     padding: 0px;
-    margin: 30px;
+    margin: 0px;
     list-style-type: none;
     color: #7C1A00;
 }
 
 nav li {
-   margin: 30px;
+   margin: 10px;
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
