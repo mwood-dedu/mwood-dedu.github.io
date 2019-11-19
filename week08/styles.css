@@ -6,7 +6,7 @@ body {
     color: #FA0E00;
     line-height: 1.5em;
     margin: 30px;
-    background-color: #19ff8c;  
+    background-color: #7CFFD5;  
     background-image:   
     url("images/butterfly.gif");
 	background-repeat: no-repeat;
@@ -34,7 +34,7 @@ nav li {
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
-   background-color: #0ffc03; 
+   background-color: #7CFFD5; 
 }
 
 h1 {
