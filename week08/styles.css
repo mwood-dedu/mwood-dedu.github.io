@@ -14,17 +14,6 @@ body {
 	background-position: top right;
 }
 
-div.fixed {
-      bottom: 0;
-    right: 0;
-    background-image:   
-    url("images/butterfly.gif");
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-	background-position: top right;
-  
-  }
-
 body {
     margin: 30px;
 }
