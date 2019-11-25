@@ -75,10 +75,10 @@ a:hover {
 
 footer {
     clear: both;
+    font-family: cursive;
     text-align: center;
 	color: #000000;
     font-weight: bold;
-    font-family: cursive;
 }
 
 footer li {
