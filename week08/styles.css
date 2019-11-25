@@ -58,13 +58,13 @@ h3 {
 }
 
 font {
-    color: #FA0E00;
+   
     font-weight: bold;
     text-align: center
 }
 
 a:active {
-    text-decoration: nonee;
+    text-decoration: none;
   }
 
 a:hover {
