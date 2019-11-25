@@ -22,6 +22,12 @@ body {
     margin-bottom: 30px;
 }
 
+nav ul {
+    padding: 30px;
+    margin: 300px;
+    list-style-type: none;
+}
+
 nav li {
    margin: 10px;
    border: 1px solid red;
