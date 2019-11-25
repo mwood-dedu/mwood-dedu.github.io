@@ -5,18 +5,22 @@ body {
     font-family: "georgia", Times, Serif; 
     color: #FA0E00;
     line-height: 1.5em;
-    margin: 30px;
+    margin: 15px;
     background-color: #D1FEFF;  
     background-image:   
     url("images/butterfly.gif");
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top right;
-    background-image: max-width:50%;
-    background-image: max-height:50%;
+    background-image: 50%;
 }
 
-img.resize {
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+image.size {
     max-width:50%;
     max-height:50%;
 }
