@@ -22,13 +22,6 @@ body {
     margin-bottom: 30px;
 }
 
-nav ul {
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-    color: #7C1A00;
-}
-
 nav li {
    margin: 10px;
    border: 1px solid red;
