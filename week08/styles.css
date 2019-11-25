@@ -5,30 +5,17 @@ body {
     font-family: "georgia", Times, Serif; 
     color: #FA0E00;
     line-height: 1.5em;
-    margin: 15px;
+    margin: 30px;
     background-color: #D1FEFF;  
     background-image:   
     url("images/butterfly.gif");
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top right;
-    background-image: 50%;
-}
-
-.container {
-    width: 200px;
-    height: 120px;
-}
-
-image.size {
-    max-width:50%;
-    max-height:50%;
-    background-image:   
-    url("images/butterfly.gif");
 }
 
 body {
-    margin: 30px;
+    margin: 15px;
 }
 
 #container {
@@ -50,6 +37,7 @@ nav li {
 }
 
 h1 {
+    font-family: "comic sans", Times, Serif; 
     color:  #1703fc;
     font-weight: bold;
     text-align: center;
