@@ -16,6 +16,7 @@ body {
 
 body {
     margin: 30px;
+    margin: 15px;
 }
 
 #container {
@@ -54,17 +55,21 @@ h3 {
     color: #FF0FF5;     
     font-weight: bold;
     text-align: center;
-    line-height: 1cm%;
+    line-height: 1cm;
 }
 
 font {
-   
     font-weight: bold;
     text-align: center
 }
 
+ul {
+    list-style-type: square;
+    margin: 75px;
+}
+
 a:active {
-    text-decoration: none;
+    text-decoration: nonee;
   }
 
 a:hover {
