@@ -57,12 +57,15 @@ h3 {
     line-height: 1cm%;
 }
 
-
 font {
     color: #FA0E00;
     font-weight: bold;
     text-align: center
 }
+
+a:active {
+    text-decoration: nonee;
+  }
 
 a:hover {
     color:#FF0FF5; 
