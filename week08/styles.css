@@ -23,6 +23,8 @@ body {
 image.size {
     max-width:50%;
     max-height:50%;
+    background-image:   
+    url("images/butterfly.gif");
 }
 
 body {
