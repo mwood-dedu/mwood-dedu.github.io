@@ -26,14 +26,13 @@ body {
 nav ul {
     padding: 0px;
     margin: 0px;
-    text-decoration: nonee;
     list-style-type: none;
 }
 
 nav li {
    margin: 10px;
    font-family: 'Patrick Hand', cursive;
-   text-decoration: nonee;
+   text-decoration: none;
    font-size: 48px;
    border: 1px solid red;
    border-style: solid;
@@ -80,8 +79,8 @@ ul {
 }
 
 a:active {
-    text-decoration: nonee;
-  }
+    text-decoration: none;
+}
 
 a:hover {
     color:#FF0FF5; 
