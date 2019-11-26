@@ -41,7 +41,7 @@ nav li {
 
 h1 {
     font-family: 'Tangerine', serif;
-    font-size: 58px;
+    font-size: 68px;
     text-shadow: 4px 4px 4px #aaa;
     color:  #1703fc;
     font-weight: bold;
@@ -51,7 +51,7 @@ h1 {
 
 h2 {
     font-family: 'Monoton', cursive;
-    font-size: 35px;
+    font-size: 48px;
     color: #901CFC;
     font-weight: bold;
     text-align: center;
@@ -59,8 +59,10 @@ h2 {
 }
 
 h3 {
-    color: #FF0FF5;     
+         
     font-family: 'Poiret One', cursive;
+    font-size: 38px;
+    color: #FF0FF5;
     font-weight: bold;
     text-align: center;
     line-height: 1cm;
