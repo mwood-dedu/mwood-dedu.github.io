@@ -87,6 +87,7 @@ a:active {
 
 a:hover {
     color:#FF0FF5; 
+    text-decoration: none;
 }
 
 footer {
