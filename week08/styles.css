@@ -42,7 +42,6 @@ nav li {
    font-family: 'Patrick Hand', cursive;
    text-decoration: none;
    font-size: 48px;
-
 }
 
 #container {
@@ -86,6 +85,8 @@ a:active {
     text-decoration: none;
 
 }
+
+
 
 a:hover {
     color:#FF0FF5; 
