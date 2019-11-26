@@ -34,11 +34,12 @@ nav li {
    font-family: 'Patrick Hand', cursive;
    text-decoration: none;
    font-size: 48px;
-   border: 1px solid red;
-   border-style: solid;
-   border-color: #f3ff19;
+ 
 }
 
+#container {
+    margin-bottom: 30px;
+}
 h1 {
     font-family: 'Tangerine', serif;
     font-size: 88px;
