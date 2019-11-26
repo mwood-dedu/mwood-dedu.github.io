@@ -83,13 +83,13 @@ font {
 
 a:active {
     text-decoration: none;
-
 }
 
 a:link {
     color: #B81383;
+    font-weight: bold;
   }
-  
+
 footer {
     clear: both;
     font-family: cursive;
