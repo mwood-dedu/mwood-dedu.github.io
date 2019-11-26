@@ -32,7 +32,7 @@ nav ul {
 }
 
 ul {
-    list-style-type: square;
+    list-style-type: none;
     margin: 75px;
     text-decoration: none;
 }
