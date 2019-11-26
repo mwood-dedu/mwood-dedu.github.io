@@ -40,6 +40,10 @@ nav li {
    border-color: #f3ff19;
 }
 
+a.nounderline:link {
+    text-decoration:none;
+}
+
 h1 {
     font-family: 'Tangerine', serif;
     font-size: 88px;
