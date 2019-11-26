@@ -89,12 +89,7 @@ a:active {
 a:link {
     color: #B81383;
   }
-
-a:hover {
-    color:#FF0FF5; 
-    text-decoration: none;
-}
-
+  
 footer {
     clear: both;
     font-family: cursive;
