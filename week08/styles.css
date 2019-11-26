@@ -17,8 +17,7 @@ body {
 body {
     font-family: 'Caveat', cursive;
     font-family: 'Indie Flower', cursive;
-    font-family: 'Patrick Hand', cursive;
-      margin: 30px;
+    margin: 30px;
     margin: 15px;
 }
 
@@ -34,14 +33,18 @@ nav ul {
 
 nav li {
    margin: 10px;
+   font-family: 'Patrick Hand', cursive;
+   text-decoration: nonee;
    border: 1px solid red;
    border-style: solid;
    border-color: #f3ff19;
 }
 
 h1 {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
     color:  #1703fc;
-    font-family: 'Tangerine', cursive;
     font-weight: bold;
     text-align: center;
     line-height: 1cm;
