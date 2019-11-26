@@ -26,6 +26,7 @@ body {
 nav ul {
     padding: 0px;
     margin: 0px;
+    text-decoration: nonee;
     list-style-type: none;
 }
 
@@ -76,6 +77,7 @@ font {
 ul {
     list-style-type: square;
     margin: 75px;
+    text-decoration: nonee;
 }
 
 a:active {
