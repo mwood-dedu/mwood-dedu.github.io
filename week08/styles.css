@@ -34,7 +34,8 @@ nav ul {
 nav li {
    margin: 10px;
    font-family: 'Patrick Hand', cursive;
-   font-size: 25px;
+   text-decoration: nonee;
+   font-size: 48px;
    font-weight: bold;
    border: 1px solid red;
    border-style: solid;
