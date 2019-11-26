@@ -83,6 +83,7 @@ font {
 
 a:active {
     text-decoration: none;
+    color: #04cc0e;
 }
 
 a:hover {
