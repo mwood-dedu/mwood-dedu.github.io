@@ -45,6 +45,13 @@ nav li {
 }
 
 #container {
+    background-image: url("images/butterfly.gif");
+    border: 1px solid #CCCCCC;
+    margin-left: 180px;
+    padding: 10px;
+}
+
+#container {
     margin-bottom: 30px;
 }
 
