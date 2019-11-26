@@ -11,7 +11,7 @@ body {
     url("images/butterfly.gif");
 	background-repeat: no-repeat;
     background-attachment: static;
-    background-position: top right;
+    background-position: bottom right;
 }
 
 body {
@@ -27,6 +27,13 @@ nav ul {
     padding: 0px;
     margin: 0px;
     list-style-type: none;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: square;
+    margin: 75px;
+    text-decoration: none;
 }
 
 nav li {
@@ -34,12 +41,12 @@ nav li {
    font-family: 'Patrick Hand', cursive;
    text-decoration: none;
    font-size: 48px;
- 
 }
 
 #container {
     margin-bottom: 30px;
 }
+
 h1 {
     font-family: 'Tangerine', serif;
     font-size: 88px;
@@ -71,12 +78,6 @@ h3 {
 font {
     font-weight: bold;
     text-align: center
-}
-
-ul {
-    list-style-type: square;
-    margin: 75px;
-    text-decoration: nonee;
 }
 
 a:active {
