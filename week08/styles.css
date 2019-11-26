@@ -40,23 +40,6 @@ nav li {
    border-color: #f3ff19;
 }
 
-a.nounderline:link {
-    text-decoration:none;
-}
-
-<style type="text/css">
-a.nounderline: link
-(
-Text-decoration: none;
-)
-</ style>
-<style type="text/css">
-a.nounderline:link
-{
-text-decoration:none;
-}
-</style>
-
 h1 {
     font-family: 'Tangerine', serif;
     font-size: 88px;
