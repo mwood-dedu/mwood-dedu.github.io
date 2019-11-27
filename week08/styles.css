@@ -6,12 +6,12 @@ body {
     color: #FA0E00;
     line-height: 1.5em;
     margin: 30px;
-    background-color: #FFFDCC;  
+    background-color: #FF47F4;  
     background-image:   
     url("images/butterfly.gif");
 	background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right right;
+    background-position: right;
     text-decoration: none;
 }
 
