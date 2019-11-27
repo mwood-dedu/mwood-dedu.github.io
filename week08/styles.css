@@ -8,7 +8,7 @@ body {
     margin: 30px;
     background-color: #FFE83B;  
     background-image:   
-    url("images/butterfly.gif");
+    url("images/butterfly.png");
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: right;
@@ -45,7 +45,7 @@ nav li {
 }
 
 #container {
-    background-image: url("images/butterfly.gif");
+    background-image: url("images/butterfly.png");
     border: 1px solid #CCCCCC;
     margin-right: 280px;
     padding: 10px;
