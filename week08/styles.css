@@ -11,7 +11,7 @@ body {
     url("images/butterfly.gif");
 	background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: bottom right;
+    background-position: right right;
     text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ nav li {
 #container {
     background-image: url("images/butterfly.gif");
     border: 1px solid #CCCCCC;
-    margin-right: 180px;
+    margin-right: 80px;
     padding: 10px;
 }
 
