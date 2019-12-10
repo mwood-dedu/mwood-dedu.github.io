@@ -1,0 +1,37 @@
+<svg width="500" height="500" xml:lang="fr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>SVG house</title>
+  <desc>My SVG house</desc>
+
+<!-- Sun -->
+  <svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="yellow" stroke-width="4" fill="lemonchiffon" /> 
+  </svg>
+
+<!-- Wall -->
+  <rect x="100" y="200" width="300" height="300" fill="darkviolet"/>
+ 
+<!-- Window -->
+  <ellipse cx="175" cy="315" rx="25" ry="50"
+  style="fill:pink;stroke:fuchsia;stroke-width:3" />
+ 
+<!-- Door -->
+  <line x1="325" y1="500" x2="325" y2="350" stroke="fuchsia" stroke-width="100" stroke-linecap="round"/>
+ 
+<!-- Chimney -->
+  <rect x="300" y="76" width="50" height="60" fill="darkmagenta"/>
+ 
+<!-- Roof -->
+  <path d="M 75,200 L 425,200 L 250,50 Z" fill="indigo"/>
+ 
+<!-- Grass1 -->
+   <polygon points="0 0, 100 100, 0 100" stroke="green" fill="green" stroke-width="5" width='150' height='80' transform='translate(402 450)' />
+ 
+<!-- Grass2 -->
+  <svg x="-125" y="400" height="110" width="250">
+  <polygon points="225,40 115,175 227,300" class="triangle" fill="green"/>
+</svg>
+
+<!-- doorWindow -->
+<svg x="275" y="315" height="110" width="600" >
+  <polygon points="10,20 40,40 10,60 90,60 60,40 90,20" style="fill:pink;stroke:darkviolet;stroke-width:3" />
+</svg>
